@@ -1,2 +1,4 @@
-# bshyuunn-audit-portfolio
-A portfolio repository for bshyuunn audits
+# Public Audit Contest Portfolio
+|  No  | Protocol                                                                                          | Date          | Findings       | Keywords             | Rank | Competition Platform | Report                                                 |
+|------ | ------------------------------------------------------------------------------------------------ | ------------- | -------------- | -------------------- | ---- | -------------------- | ---------------------------------------------------------------------------------------------- |
+| 1.    | [Trick or Treat (CodeHawks First Flight)](https://codehawks.cyfrin.io/c/2024-10-trick-or-treat)  | Nov 2024      |   1M, 1L       | ERC721               | 🥉   | Code Hawks           | [Link](https://github.com/bshyuunn/bshyuunn-audit-portfolio/edit/main/reports/2024-11-Trick-or-Treat-(CodeHawks-First-Flights).md) |
