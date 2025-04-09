@@ -1,3 +1,9 @@
+## Where to Find Me
+- [Cantina Profile](https://cantina.xyz/u/songhyun)
+- [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
+- [Code4rena Profile](https://code4rena.com/@hyuunn)
+
+## Web3 Audit Record
 | No | Protocol | Data | Tech | Tag | Findings | Rank | **Platform** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 | [EIP7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | Mar 2025 | Solidity | Proxy | 1M | 3/309 🥉 | Cantina |
