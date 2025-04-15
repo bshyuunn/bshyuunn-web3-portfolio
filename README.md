@@ -1,4 +1,4 @@
-## Where to Find Me
+## Audit Profiles
 - [Cantina Profile](https://cantina.xyz/u/songhyun)
 - [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
 - [Code4rena Profile](https://code4rena.com/@hyuunn)
