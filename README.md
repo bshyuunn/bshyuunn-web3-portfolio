@@ -1,4 +1,5 @@
 ## Audit Profiles
+- [Immunefi Profile](https://immunefi.com/profile/hyuunn/)
 - [Cantina Profile](https://cantina.xyz/u/songhyun)
 - [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
 - [Code4rena Profile](https://code4rena.com/@hyuunn)
