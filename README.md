@@ -7,7 +7,6 @@
 ## Web3 Audit Record
 | No | Protocol | Data | Chain | Tech | Tag | Findings | Rank | **Platform** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9 | [RustFund (FirstFlight)](https://codehawks.cyfrin.io/c/2025-03-rustfund) | Apr 2025 | Solana | Rust | Fund | 3H, 2M, 1L | 25/92 | CodeHawks |
 | 8 | [EIP7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | Mar 2025 | EVM | Solidity | Proxy | 1M | 3/309 🥉 | Cantina |
 | 7 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Feb 2025 | EVM | Solidity | Defi | 1H, 1M | 15/67 | Code4rena |
 | 6 | [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) | Feb 2025 | EVM | Solidity | DIVA, Aave | 1L | 8/56 | CodeHawks |
