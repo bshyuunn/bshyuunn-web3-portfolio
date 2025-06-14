@@ -8,6 +8,7 @@
 | No | Protocol | Data | Chain | Tech | Tag | Findings | Rank | **Platform** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 | [EIP7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | Mar 2025 | EVM | Solidity | Proxy | 1M | 3/309 🥉 | Cantina |
+| 9 | [Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | Feb 2025 | EVM | Solidity | RWA | 8H 10M | 5 / 419 | CodeHawks |
 | 7 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Feb 2025 | EVM | Solidity | Defi | 1H, 1M | 15/67 | Code4rena |
 | 6 | [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) | Feb 2025 | EVM | Solidity | DIVA, Aave | 1L | 8/56 | CodeHawks |
 | 5 | [dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b) | Feb 2025 | EVM | Solidity | Lending | 1H | 18/316 | Cantina |
