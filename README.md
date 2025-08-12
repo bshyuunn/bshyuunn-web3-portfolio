@@ -4,7 +4,7 @@ Hello, my name is Songhyun Bae. 🖐️
 
 ---
 
-## Audit Profiles
+## Profiles
 - [Immunefi Profile](https://immunefi.com/profile/hyuunn/)
 - [Cantina Profile](https://cantina.xyz/u/songhyun)
 - [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
