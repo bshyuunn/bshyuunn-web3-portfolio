@@ -23,5 +23,13 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 | <img src="https://cantina.xyz/_next/image?url=https%3A%2F%2Fimagedelivery.net%2Fwtv4_V7VzVsxpAFaxzmpbw%2Fdcfb9999-f4e6-4201-d64d-f31bfffdfa00%2Fpublic&w=256&q=75" width=15 height=15> [dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b) | 1H | <img src="./images/solidity.ico" width=15 height=15> Solidity | Lending |  | 18 / 316 | <img src="./images/cantina.ico" width=15 height=15> Cantina | Feb 2025 |
 | <img src="https://cantina.xyz/_next/image?url=https%3A%2F%2Fimagedelivery.net%2Fwtv4_V7VzVsxpAFaxzmpbw%2F9b09e384-f489-4960-ce29-ed0ba1bd6400%2Fpublic&w=256&q=75" width=15 height=15> [reserve-index-dtf](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f) | 1M | <img src="./images/solidity.ico" width=15 height=15> Solidity | Portfolio |  | 8 / 263 | <img src="./images/cantina.ico" width=15 height=15> Cantina | Jan 2025 |
 | <img src="https://cantina.xyz/_next/image?url=https%3A%2F%2Fimagedelivery.net%2Fwtv4_V7VzVsxpAFaxzmpbw%2Fc3ebbed9-6d4e-467f-8af6-5a9f3d781500%2Fpublic&w=256&q=75" width=15 height=15> [InterPol](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e) | 1H, 2M | <img src="./images/solidity.ico" width=15 height=15> Solidity | Defi, Liquidity Lock |  | 10 / 236 | <img src="./images/cantina.ico" width=15 height=15> Cantina | Dec 2024 |
-## Bug bounties
 
+
+## Bug bounties
+| Protocol | Severity | Tech | Category | **Status** | Bounty | Report | Platform | Summary | Data |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Redacted | Medium | Aptos Move | Swap | No Fix, No Pay | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
+| Redacted | Medium | Aptos Move | Swap | No Fix, No Pay | - | Private | Immunefi |  | Aug 2025 |
+| Tocuan | Medium | Solidity | RWA | Paid | USD 1,000 | Private | Immunefi |  | Mar 2025 |
+| Tocuan | Medium | Solidity | RWA | Paid | USD 200 | Private | Immunefi |  | Feb 2025 |
+| Tocuan | Low | Solidity | RWA | Paid | USD 100 | Private | Immunefi |  | Feb 2025 |
