@@ -18,13 +18,13 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 ## Audit Contests
 | Protocol | Findings | Tech | Category | Rank | Report | Platform | Data |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Coinbase-EIP7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | 1M | Solidity | Proxy | 3 / 309 🥉 | [Private] | Cantina | Mar 2025 |
-|  [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | 1H, 1M | Solidity | Defi | 15 / 817 | [[Link]](reports/2025-01-next-generation.md) | Code4rena | Feb 2025 |
-| [RAAC-Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | 8H 10M | Solidity | RWA | 5 / 419 | [[Link]](reports/2005-02-raac.md) | CodeHawks | Feb 2025 |
-| [daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 5H, 2M | Solidity | Defi, Uniswap V3 | 14 / 292 | [Private] | Cantina | Jan 2025 |
-| [dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b) | 1H | Solidity | Lending | 18 / 316 | [Private]	| Cantina | Feb 2025 |
-| [reserve-index-dtf](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f) | 1M | Solidity | Portfolio | 8 / 263 | [Private] | Cantina | Jan 2025 |
-| [InterPol](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e) | 1H, 2M | Solidity | Defi, Liquidity Lock | 10 / 236 | [Private]	| Cantina | Dec 2024 |
+| [Coinbase-EIP7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | 1M | Solidity | Proxy | 3🥉 | [Private] | Cantina | Mar 2025 |
+|  [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | 1H, 1M | Solidity | Defi | 15 | [[Link]](reports/2025-01-next-generation.md) | Code4rena | Feb 2025 |
+| [RAAC-Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | 8H 10M | Solidity | RWA | 5 | [[Link]](reports/2005-02-raac.md) | CodeHawks | Feb 2025 |
+| [daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 5H, 2M | Solidity | Defi, Uniswap V3 | 14 | [Private] | Cantina | Jan 2025 |
+| [dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b) | 1H | Solidity | Lending | 18 | [Private]	| Cantina | Feb 2025 |
+| [reserve-index-dtf](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f) | 1M | Solidity | Portfolio | 8 | [Private] | Cantina | Jan 2025 |
+| [InterPol](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e) | 1H, 2M | Solidity | Defi, Liquidity Lock | 10 | [Private]	| Cantina | Dec 2024 |
 
 <br>
 
