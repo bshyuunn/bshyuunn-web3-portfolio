@@ -29,10 +29,10 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 <br>
 
 ## Bug Bounties
-| Protocol | Severity | Tech | Category | Status | Bounty | Report | Platform | Summary | Data |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
-| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
-| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 1,000 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Mar 2025 |
-| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 200 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
-| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Low | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 100 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
+| Protocol | Severity | Tech | Category | Status | Bounty | Report | Platform | Data |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi | Aug 2025 |
+| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi | Aug 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 1,000 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi | Mar 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 200 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi | Feb 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Low | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 100 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi | Feb 2025 |
