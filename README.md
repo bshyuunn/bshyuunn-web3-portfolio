@@ -1,6 +1,9 @@
 # bshyuunn web3 portfolio
 Hello, my name is Songhyun Bae. 🖐️
 
+I focus on smart contract auditing and bug bounty hunting across EVM-compatible, Aptos, and Solana ecosystems. I’m always learning new technologies and improving my skills to stay ahead in blockchain security.
+
+
 
 ---
 
