@@ -13,6 +13,8 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 - [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
 - [Code4rena Profile](https://code4rena.com/@hyuunn)
 
+<br>
+
 ## Audit Contests
 | Protocol | Findings | Tech | Category | Rank | Report | Platform | Data |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,12 +26,13 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 | <img src="https://cantina.xyz/_next/image?url=https%3A%2F%2Fimagedelivery.net%2Fwtv4_V7VzVsxpAFaxzmpbw%2F9b09e384-f489-4960-ce29-ed0ba1bd6400%2Fpublic&w=256&q=75" width=15 height=15> [reserve-index-dtf](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f) | 1M | <img src="./images/solidity.ico" width=15 height=15> Solidity | Portfolio | 8 / 263 | [Link] | <img src="./images/cantina.ico" width=15 height=15> Cantina | Jan 2025 |
 | <img src="https://cantina.xyz/_next/image?url=https%3A%2F%2Fimagedelivery.net%2Fwtv4_V7VzVsxpAFaxzmpbw%2Fc3ebbed9-6d4e-467f-8af6-5a9f3d781500%2Fpublic&w=256&q=75" width=15 height=15> [InterPol](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e) | 1H, 2M | <img src="./images/solidity.ico" width=15 height=15> Solidity | Defi, Liquidity Lock | 10 / 236 | [Link] | <img src="./images/cantina.ico" width=15 height=15> Cantina | Dec 2024 |
 
+<br>
 
-## Bug bounties
+## Bug Bounties
 | Protocol | Severity | Tech | Category | Status | Bounty | Report | Platform | Summary | Data |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Redacted | Medium | Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
-| Redacted | Medium | Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
-| Tocuan | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 1,000$ | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Mar 2025 |
-| Tocuan | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 200$ | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
-| Tocuan | Low | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 100$ | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
+| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
+| [PRIVATE-1] | Medium | <img src="./images/aptos.ico" width=15 height=15> Aptos Move | Swap | [NFNP](https://immunefisupport.zendesk.com/hc/en-us/articles/22617181023889-No-Fix-No-Pay) | - | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Aug 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 1,000 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Mar 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Medium | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 200 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
+| <img src="https://toucan.earth/wp-content/uploads/2023/02/android-chrome-512x512-1-150x150.png" width=15 height=15> [Tocuan](https://toucan.earth/) | Low | <img src="./images/solidity.ico" width=15 height=15> Solidity | RWA | Paid | 100 USD | Private | <img src="./images/immunefi.ico" width=15 height=15> Immunefi |  | Feb 2025 |
