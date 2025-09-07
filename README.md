@@ -12,6 +12,7 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 - [Cantina Profile](https://cantina.xyz/u/songhyun)
 - [CodeHawks Profile](https://profiles.cyfrin.io/u/bshyuunn)
 - [Code4rena Profile](https://code4rena.com/@hyuunn)
+- [HackenProof Profile](https://hackenproof.com/hackers/hyuunn)
 
 <br>
 
