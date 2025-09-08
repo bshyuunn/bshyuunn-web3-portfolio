@@ -30,6 +30,13 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 
 <br>
 
+## Private Audits
+| Protocol | Findings | Tech | Category | Report | With | Team | Date |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/222864111?s=200&v=4" width=15 height=15> [Blockstreet](https://www.blockstreet.xyz/) | [Private] | <img src="./images/solidity.ico" width=15 height=15> Solidity | LaunchPad, Vault | [Private] | <img src="https://hashlock.com/wp-content/uploads/2025/04/cropped-favicon-32x32.png" width=15 height=15> Hashlock | Solo | Jul 2025 |
+
+<br>
+
 ## Bug Bounties
 | Protocol | Severity | Tech | Category | Status | Bounty | Report | Platform | Data |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
