@@ -6,6 +6,8 @@ I focus on smart contract auditing and bug bounty hunting across EVM-compatible,
 
 ---
 
+<br>
+
 ## Profiles
 - [Immunefi Profile](https://immunefi.com/profile/hyuunn/)
 - [Cantina Profile](https://cantina.xyz/u/songhyun)
